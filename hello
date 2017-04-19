@@ -1,0 +1,8 @@
+function hello (name) {
+  if (!name) { // !name means if there is no name, carry out this statement    // only change the text in the double quotes
+    return "Reza";
+  } else {
+// only change the text in the double quotes
+    return "Reza";
+  }
+}
